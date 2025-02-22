@@ -22,7 +22,7 @@ We used the "MIMII DATASET: Sound Dataset for Malfunctioning Industrial Machine 
 
 To replicate the experiments and explore the project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Alireza499/sound-based_fault_detection.git`
+1. Clone this repository: `git clone https://github.com/Delavari-Alireza/sound-based_fault_detection.git`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Download the pre-trained VGG16 weights and save them in the designated directory.
 4. Customize the data loading and preprocessing scripts to fit your dataset.
